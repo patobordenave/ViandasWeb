@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    border-radius: 20px 20px 20px 20px;
+    -moz-border-radius: 20px 20px 20px 20px;
+    -webkit-border-radius: 20px 20px 20px 20px;
+    border: 0px solid #000000;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background: #1B7F79;
+}
+
+.imagenPlato{
+    border-radius: 20px solid black;
+}
+
+.listadoMenu{
+    background: #00CCC0;
+}
+
+.botonPlato{
+    border: 0;
+    background: none;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px;
+}
+
+.botonPlato:hover{
+    border: 0;
+    background: none;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 3px;
+    color:#00CCC0;
+    background: white;
+}
+
+.redesSociales{
+    background: #747F7F;
+}
+
+.contacto{
+    background: #747F7F;
+}
+
+.footer{
+    background: #72F2EB;
+    color: black;
+    font-size: 10px;
+}
+
